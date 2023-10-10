@@ -3,4 +3,6 @@
 
 int _putchar();
 void _main();
+int _putchar(int a);
+
 #endif
